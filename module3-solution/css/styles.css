@@ -1,0 +1,8 @@
+#menu-categories {
+    background-color: skyblue;
+    height: 1000px;
+}
+
+#menu-categories.menu-text {
+    overflow: hidden;
+}
